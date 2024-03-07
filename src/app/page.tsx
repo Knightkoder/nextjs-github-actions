@@ -11,6 +11,11 @@ export default function Home() {
       <div>Prueba subida5</div>
       <div>Prueba subida6</div>
       <div>Prueba subida7</div>
+      <section className="flex flex-col items-center justify-center">
+          <h2 className="text-2xl font-bold">
+            Welcome to <a href="https://nextjs.org">Next.js!</a>
+          </h2>
+      </section>
       <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
     </main>
   );  
