@@ -8,6 +8,8 @@ export default function Home() {
       <div>Prueba subida2</div>
       <div>Prueba subida3</div>
       <div>Prueba subida4-</div>
+      <div>Prueba subida5</div>
+      <div>Prueba subida6</div>
       <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
     </main>
   );  
