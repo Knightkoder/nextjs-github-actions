@@ -24,6 +24,7 @@ export default function Home() {
           width={180}
           height={60}
         />
+      <div></div>
       <section className="flex flex-col items-center justify-center">
           <h2 className="text-2xl font-bold">
             Welcome to <a href="https://nextjs.org">Next.js!</a>
